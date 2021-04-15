@@ -1,0 +1,2 @@
+# slambook
+Test slam algos
