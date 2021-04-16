@@ -24,6 +24,15 @@ int main( int argc, char** argv )
     Eigen::Matrix<float, 2, 1> result2 = matrix_23 * vd_3d;
     cout << result2 << endl;
 
+    matrix_33 = Eigen::Matrix3d::Random();      
+    cout << matrix_33 << endl << endl;
+    cout << matrix_33.transpose() << endl; 
+    cout << matrix_33.sum() << endl; 
+    cout << matrix_33.trace() << endl; 
+    cout << 10*matrix_33 << endl; 
+    cout << matrix_33.inverse() << endl;
+    cout << matrix_33.determinant() << endl; 
+
     cout <<"hello world"  << endl;
 
     return 0;
