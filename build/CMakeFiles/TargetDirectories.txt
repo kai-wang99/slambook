@@ -1,0 +1,3 @@
+/home/idv/workspace/slam/slambook/build/CMakeFiles/rebuild_cache.dir
+/home/idv/workspace/slam/slambook/build/CMakeFiles/edit_cache.dir
+/home/idv/workspace/slam/slambook/build/CMakeFiles/eigenMatrix.dir
